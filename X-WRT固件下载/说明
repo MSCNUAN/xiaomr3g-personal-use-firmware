@@ -1,0 +1,13 @@
+X-WRT基于Openwrt修改的，非常适合小白使用，刷完后插usb手机开启共享网络即可使用！
+
+X-WRT官网：https://x-wrt.com/
+
+X-WRT固件最新下载：https://downloads.x-wrt.com/rom/（找xiaomir3g的固件。）
+
+默认后台地址：192.168.15.1
+
+默认无线名称：X-WRT_XXXX  密码：88888888
+
+管理界面账户/密码：admin/admin
+
+SSH登录账户/密码：root/admin 需要进入界面-系统-管理权页面-开启SSH登录
