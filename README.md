@@ -5,7 +5,5 @@
 
 缺流量卡的可以看下：
 
-![下载 (1)](https://github.com/MSCNUAN/xiaomr3g-personal-use-firmware/assets/77392262/7d234aba-2d9b-41d4-976a-9c6fd086f201)
-
 
 ![下载](https://github.com/MSCNUAN/xiaomr3g-personal-use-firmware/assets/77392262/1415adb6-3b7d-481b-95d7-5084b1df10f6)
